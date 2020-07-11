@@ -11,3 +11,5 @@ It will feature:
   - Simple moderation and anti-raid functions that are hard to find
   - Text and image manipulation
 
+We are currently rewriting the bot to TS because that's safer typewise (fuck weak typing, it's just a bug factory)
+
